@@ -1,4 +1,22 @@
 body {
+  margin: 1em;
+  padding: 0;
   background: url('../img/efeutute.jpg') no-repeat 50% 50%;
-  background-size
+  background-size: 100%;  
 }
+
+.main {
+  margin: 1em;
+  text-align: center;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #FFF;
+  font-size: 2em;
+  margin: 0 auto;
+  padding: 2em;
+  width: 300px;
+  border: 10px solid #FFF;
+}
+
