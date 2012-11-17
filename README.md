@@ -1,4 +1,4 @@
-plants
+Plants
 ======
 
 Co.up Plants
